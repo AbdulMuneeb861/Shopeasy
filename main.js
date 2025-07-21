@@ -27,7 +27,7 @@
                 title: "Hot mens sale track suit trouser t shirt",
                 description: "very comfortable and high quality track suit in best price .",
                 price: 1300,
-                image: "./images/hot-mens-sale-tracksuit1.jpeg"
+                image: "../hot-mens-sale-tracksuit1.jpeg"
             },
             {
                 id: 2,
